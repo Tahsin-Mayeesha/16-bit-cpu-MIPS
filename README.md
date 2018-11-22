@@ -1,5 +1,7 @@
 # 16-bit-cpu-MIPS
 
+![](Final.png)
+
 implementation of 16 bit CPU (MIPS architecture) for Computer Architecture course
 
 
